@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+client/node_modules
+server/node_modules
+node_modules
+client/build
+client/package-lock.json
+./package-lock.json
+package-lock.json
+
+client/src/css/app.css
+/client/src/css/app.css
+
+client/public/uploads
+
+.env
